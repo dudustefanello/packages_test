@@ -1,0 +1,18 @@
+[submodule "django_extends_admin"]
+	path = django_extends_admin
+	url = https://github.com/dudustefanello/django_extends_admin.git
+[submodule "django_financeiro"]
+	path = django_financeiro
+	url = https://github.com/dudustefanello/django_financeiro.git
+[submodule "django_tuss"]
+	path = django_tuss
+	url = https://github.com/dudustefanello/django_tuss.git
+[submodule "django_xlsx_export"]
+	path = django_xlsx_export
+	url = https://github.com/dudustefanello/django_xlsx_export.git
+[submodule "python_tiss"]
+	path = python_tiss
+	url = https://github.com/dudustefanello/python_tiss.git
+[submodule "django_calendar"]
+	path = django_calendar
+	url = https://github.com/dudustefanello/django_calendar.git

@@ -16,3 +16,6 @@
 [submodule "django_calendar"]
 	path = django_calendar
 	url = https://github.com/dudustefanello/django_calendar.git
+[submodule "pip_app"]
+	path = pip_app
+	url = https://github.com/dudustefanello/pip_app.git
